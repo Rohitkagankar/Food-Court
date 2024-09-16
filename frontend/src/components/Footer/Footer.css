@@ -21,6 +21,10 @@
     align-items: start;
     gap: 20px;
 }
+.footer-content-left img{
+    width: 200px;
+    border-radius: 20px;
+}
 .footer-content-left li, .footer-content-center li, .footer-content-right li{
     list-style: none;
     margin-bottom: 10px;
