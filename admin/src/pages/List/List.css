@@ -22,3 +22,6 @@
         display: none;
     }
 }
+.cursor{
+    cursor: pointer;
+}
